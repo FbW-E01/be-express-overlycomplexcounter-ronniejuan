@@ -1,0 +1,23 @@
+POST http://localhost:2121/inc
+
+###
+
+
+POST http://localhost:2121/dec
+
+###
+
+POST http://localhost:2121/die
+
+###
+
+POST http://localhost:9090/inc
+
+
+###
+
+POST http://localhost:9090/dec
+
+###
+
+POST http://localhost:9090/die
